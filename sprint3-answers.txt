@@ -1,0 +1,8 @@
+# Name: Aarthi Narayan
+
+# Answers to following questions:
+
+# 1. What does file.readline do?
+# Answer: Reads characters from the file until a newline is detected and returns output as a string.
+# 2. What does String.strip do?
+# Answer: Removes the whitespaces (carriage return and newline) and just prints the string alone.
